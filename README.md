@@ -20,7 +20,7 @@ The Coffee Sales Dashboard is an Excel project that visualizes and analyzes sale
 
 ## Usage
 
-1. **Download the Excel File:** Clone or download the repository to access the Excel file.
+1. **Download the Excel File:** Clone or download the repository to access the Excel file. (coffeeOrdersData.xlsx - contains only data)(coffeeOrdersData.xlsx - contains the interactive dashboard)
 
 2. **Open in Microsoft Excel:** Open the Coffee Sales Dashboard in Microsoft Excel to explore the features (Remember - XLOOKUP feature can be used in paid version or Microsoft 365 only).
 
